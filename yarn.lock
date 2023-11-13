@@ -3455,10 +3455,10 @@
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
-"@types/lodash@^4.14.172", "@types/lodash@^4.14.189":
-  version "4.14.189"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.189.tgz#975ff8c38da5ae58b751127b19ad5e44b5b7f6d2"
-  integrity sha512-kb9/98N6X8gyME9Cf7YaqIMvYGnBSWqEci6tiettE6iJWH1XdJz/PO8LB0GtLCG7x8dU3KWhZT+lA1a35127tA==
+"@types/lodash@^4.14.172", "@types/lodash@^4.14.201":
+  version "4.14.201"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.201.tgz#76f47cb63124e806824b6c18463daf3e1d480239"
+  integrity sha512-y9euML0cim1JrykNxADLfaG0FgD1g/yTHwUs/Jg9ZIU7WKj2/4IW9Lbb1WZbvck78W/lfGXFfe+u2EGfIJXdLQ==
 
 "@types/mdast@^3.0.0":
   version "3.0.10"
